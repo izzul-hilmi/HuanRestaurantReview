@@ -7,7 +7,7 @@
 <title>Index Page</title>
 </head>
 <body>
-<a href="/huanRestaurant/UserServlet/login.jsp">Login</a>
-<a href="/huanRestaurant/UserServlet/Register.jsp">Register</a>
+<a href="/huanRestaurant/login.jsp">Login</a>
+<a href="/huanRestaurant/Register.jsp">Register</a>
 </body>
 </html>
