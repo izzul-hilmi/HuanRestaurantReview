@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>Insert title here</title>
+<title>Index Page</title>
 </head>
 <body>
 <a href="/huanRestaurant/UserServlet/login.jsp">Login</a>
